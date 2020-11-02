@@ -1,6 +1,6 @@
 {
-    "name": "intonate/laravel-mandrill-driver",
-    "description": "Mandrill mail driver for Laravel",
+    "name": "flindblom-ohmy/laravel-mandrill-driver",
+    "description": "Mandrill mail driver for Laravel 6 and Guzzle 7",
     "keywords": [
         "laravel",
         "mandrill",
@@ -18,6 +18,10 @@
         {
             "name": "Jorge González",
             "email": "scrub.mx@gmail.com"
+        },
+        {
+            "name": "Fredrik Lindblom",
+            "email": "fredrik.lindblom@ohmy.co"
         }
     ],
     "require": {
