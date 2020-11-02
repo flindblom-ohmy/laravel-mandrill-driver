@@ -7,7 +7,7 @@
         "driver"
     ],
     "type": "library",
-    "version": "2.0.0",
+    "version": "1.666.0",
     "homepage": "https://github.com/flindblom-ohmy/laravel-mandrill-driver",
     "support": {
         "issues": "https://github.com/flindblom-ohmy/laravel-mandrill-driver/issues",
