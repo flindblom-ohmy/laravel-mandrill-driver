@@ -9,6 +9,9 @@
 
 **This fork is a custom implementation for using this driver with Laravel 6 and Guzzle 7**
 
+Laravel | Guzzle | Install
+------- | ------ | ------
+ 6.x    | 7.x    | `^1.666`
 
 Original readme follows.
 
